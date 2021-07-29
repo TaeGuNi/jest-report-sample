@@ -1,0 +1,96 @@
+{
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTestSuites": 1,
+  "numPassedTests": 2,
+  "numPendingTestSuites": 0,
+  "numPendingTests": 0,
+  "numRuntimeErrorTestSuites": 0,
+  "numTodoTests": 0,
+  "numTotalTestSuites": 1,
+  "numTotalTests": 2,
+  "openHandles": [],
+  "snapshot": {
+    "added": 0,
+    "didUpdate": false,
+    "failure": false,
+    "filesAdded": 0,
+    "filesRemoved": 0,
+    "filesRemovedList": [],
+    "filesUnmatched": 0,
+    "filesUpdated": 0,
+    "matched": 0,
+    "total": 0,
+    "unchecked": 0,
+    "uncheckedKeysByFile": [],
+    "unmatched": 0,
+    "updated": 0
+  },
+  "startTime": 1627556310258,
+  "success": false,
+  "testResults": [
+    {
+      "leaks": false,
+      "numFailingTests": 0,
+      "numPassingTests": 2,
+      "numPendingTests": 0,
+      "numTodoTests": 0,
+      "openHandles": [],
+      "perfStats": {
+        "end": 1627556311134,
+        "runtime": 766,
+        "slow": false,
+        "start": 1627556310368
+      },
+      "skipped": false,
+      "snapshot": {
+        "added": 0,
+        "fileDeleted": false,
+        "matched": 0,
+        "unchecked": 0,
+        "uncheckedKeys": [],
+        "unmatched": 0,
+        "updated": 0
+      },
+      "testFilePath": "/Users/paul/Projects/coverage/test/test.spec.ts",
+      "testResults": [
+        {
+          "ancestorTitles": [
+            "설명을 위한 샘플 테스트 입니다",
+            "Test 개체를 테스트 합니다",
+            "모든 값이 잘 입력되어야 합니다",
+            "정상적인 값을 넣습니다"
+          ],
+          "duration": 2,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "설명을 위한 샘플 테스트 입니다 Test 개체를 테스트 합니다 모든 값이 잘 입력되어야 합니다 정상적인 값을 넣습니다 \"test1\" 의 값은 \"테스트\" 입니다",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 0,
+          "status": "passed",
+          "title": "\"test1\" 의 값은 \"테스트\" 입니다"
+        },
+        {
+          "ancestorTitles": [
+            "설명을 위한 샘플 테스트 입니다",
+            "Test 개체를 테스트 합니다",
+            "모든 값이 잘 입력되어야 합니다",
+            "정상적인 값을 넣습니다"
+          ],
+          "duration": 0,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "설명을 위한 샘플 테스트 입니다 Test 개체를 테스트 합니다 모든 값이 잘 입력되어야 합니다 정상적인 값을 넣습니다 \"test2\" 의 값은 \"true\"",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 0,
+          "status": "passed",
+          "title": "\"test2\" 의 값은 \"true\""
+        }
+      ],
+      "failureMessage": null
+    }
+  ],
+  "wasInterrupted": false
+}
